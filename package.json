@@ -1,0 +1,19 @@
+{
+  "name": "mackerel-rssi-notifier",
+  "version": "1.0.0",
+  "description": "Raspberry PiでWiFiのRSSIを取得し、mackerelに送信する",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kadoshita/mackerel-rssi-notifier.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kadoshita/mackerel-rssi-notifier/issues"
+  },
+  "homepage": "https://github.com/Kadoshita/mackerel-rssi-notifier#readme"
+}
